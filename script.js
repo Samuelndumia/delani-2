@@ -212,4 +212,4 @@ $(document).ready(function(){
 			});
 		});
 	};
-})(jQuery, window, document);
+})(jQuery, window, document);  
